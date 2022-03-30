@@ -15,14 +15,14 @@ export default function Contact() {
                 </li> */}
                 <li>
                     <i className='fa-solid fa-envelope'></i> Email:{' '}
-                    <a href='https://www.legido.de'>bihrle.marco@legido.de</a>
+                    <a href='mailto:name@domain.de'>name@domain.de</a>
                 </li>
                 <li>
-                    <i className="fa-brands fa-linkedin"></i> LinkedIn:{' '}
+                    <i className='fa-brands fa-linkedin'></i> LinkedIn:{' '}
                     <a href='#'>www.linkedin.de</a>
                 </li>
                 <li>
-                    <i className="fa-brands fa-xing"></i> Xing:{' '}
+                    <i className='fa-brands fa-xing'></i> Xing:{' '}
                     <a href='#'>www.xing.de</a>
                 </li>
             </ul>
